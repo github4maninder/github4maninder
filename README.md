@@ -1,7 +1,7 @@
 <h1 align="center">
 I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
- <img src="https://res.cloudinary.com/de9lja37o/image/upload/v1640226004/silkMan_rnlnx1.jpg" alt="Profile views" align='right' width='150'/> <a href="https://github.com/github4maninder"> </a>
+ <img src="https://res.cloudinary.com/de9lja37o/image/upload/v1640226004/silkMan_rnlnx1.jpg" alt="Profile views" align='right' width='175'/> <a href="https://github.com/github4maninder"> </a>
 <br/>
 
 <hr/>

@@ -18,6 +18,8 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 
 <hr />
 
+
+<hr />
 <h3> 👨‍💻 Programming languages </h3>
 
 <p>

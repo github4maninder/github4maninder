@@ -16,7 +16,7 @@ The technologies I work with are JavaScript, HTML and CSS with a focus on the fr
 Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 <br/>
 
-<hr />
+<br/>
 
 
 <hr />

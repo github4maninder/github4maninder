@@ -11,8 +11,10 @@ I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 A full stack webdeveloper with a focus on front-end JavaScript and React. I create amazing websites and web apps to make the internet a better place.
 
 The technologies I work with are JavaScript, HTML and CSS with a focus on the frameworks React.js, SQL, Next.js, Node and Express. I use code not only to do my day-to-day job, but also to solve everyday problems I come across.
+<br/>
 
 Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+<br/>
 
 <hr/>
 ### 👨‍💻 Programming languages

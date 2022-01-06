@@ -26,8 +26,8 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
   </table>  
 </center>  
 
-######## [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=github4maninder&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img align="center" >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=github4maninder&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</ img>
 <hr />
 <h3> 👨‍💻 Programming languages </h3>
 

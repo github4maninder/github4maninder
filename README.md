@@ -21,12 +21,13 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 
 <center>
   <table>	  
-	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=gotham&hide_border=true&show_icons=true" /> </td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&hide_border=true&langs_count=10" /> </td>
+	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=radical&hide_border=true&show_icons=true" /> </td>
+	  
+	  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=github4maninder&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 	  </table>  
 </center>  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=github4maninder&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+      <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&hide_border=true&langs_count=10" /> 
 
 
 <hr />

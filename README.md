@@ -21,8 +21,8 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 
 <center>
   <table>	  
-	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=gotham&show_icons=true" /> </td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&langs_count=10" /> </td>
+	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=gotham&hide_border=true&show_icons=true" /> </td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&hide_border=true&langs_count=10" /> </td>
 	  </table>  
 </center>  
 

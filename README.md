@@ -20,7 +20,7 @@ I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 <center>
   <table>	  
 	  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=github4maninder&count_private=true&theme=radical&hide_border=true&show_icons=true" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=gotham&hide_border=true&langs_count=10" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github4maninder&layout=compact&theme=radical&hide_border=true&langs_count=10" /></td>
   </table>  
 </center>  
 

@@ -14,9 +14,7 @@ I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 <br/>
 
 #### Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
-<br/>
 
-<br/>
 <hr />
 
 <center>

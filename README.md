@@ -83,7 +83,7 @@ I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 <hr />
 
-## 👳🏻‍♂️ Let's Connect
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
 	<a href="https://github.com/github4maninder" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/github4maninder" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>

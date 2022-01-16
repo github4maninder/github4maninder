@@ -61,7 +61,7 @@ I'm Maninder! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 </p>
 
-## 💻 Software and tools
+### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
